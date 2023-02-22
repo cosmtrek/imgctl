@@ -7,7 +7,7 @@ A command-line interface to control images with ease.
 You can install `imgctl` via go:
 
 ```bash
-go install github.com/cosmtrek/imgctl@latest
+go install github.com/cosmtrek/imgctl/cmd/imgctl@latest
 ```
 
 ## 🔧 Usage
